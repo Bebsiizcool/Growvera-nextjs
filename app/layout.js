@@ -11,10 +11,10 @@ const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfa
 
 export const metadata = {
   title: "Growvera | Premium Botanical Hair Oil & Face Gel",
-  description: "A premium botanical skincare and haircare experience crafted with high-performing naturals.",
+  description: "Elevate your daily routine with Growvera's signature botanical Hair Oil and Face Gel. Experience premium natural ingredients for stronger roots, calmer skin, and a luxurious finish.",
   openGraph: {
     title: "Growvera | Premium Botanical Hair Oil & Face Gel",
-    description: "A premium botanical skincare and haircare experience crafted with high-performing naturals.",
+    description: "Elevate your daily routine with Growvera's signature botanical Hair Oil and Face Gel. Experience premium natural ingredients for stronger roots, calmer skin, and a luxurious finish.",
     siteName: "Growvera",
     images: [
       {
@@ -30,7 +30,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Growvera | Premium Botanical Hair Oil & Face Gel",
-    description: "A premium botanical skincare and haircare experience crafted with high-performing naturals.",
+    description: "Elevate your daily routine with Growvera's signature botanical Hair Oil and Face Gel. Experience premium natural ingredients for stronger roots, calmer skin, and a luxurious finish.",
     images: ["/og-image.png"],
   },
 };
