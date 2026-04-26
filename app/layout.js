@@ -16,14 +16,6 @@ export const metadata = {
     title: "Growvera | Premium Botanical Hair Oil & Face Gel",
     description: "Elevate your daily routine with Growvera's signature botanical Hair Oil and Face Gel. Experience premium natural ingredients for stronger roots, calmer skin, and a luxurious finish.",
     siteName: "Growvera",
-    images: [
-      {
-        url: "/og-image.png",
-        width: 1200,
-        height: 630,
-        alt: "Growvera - Premium Botanical Hair Oil & Face Gel",
-      },
-    ],
     locale: "en_PK",
     type: "website",
   },
@@ -31,7 +23,6 @@ export const metadata = {
     card: "summary_large_image",
     title: "Growvera | Premium Botanical Hair Oil & Face Gel",
     description: "Elevate your daily routine with Growvera's signature botanical Hair Oil and Face Gel. Experience premium natural ingredients for stronger roots, calmer skin, and a luxurious finish.",
-    images: ["/og-image.png"],
   },
 };
 
