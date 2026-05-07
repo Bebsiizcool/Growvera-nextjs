@@ -7,8 +7,8 @@ const products = [
     category: "Scalp & lengths",
     description:
       "A rich overnight oil with rosemary, amla, coconut, and argan to support softness, scalp comfort, and luminous shine.",
-    price: 1399,
-    compareAt: 1800,
+    price: 600,
+    compareAt: 900,
     size: "100 ml",
     tags: ["Rosemary", "Amla", "Overnight ritual"],
   },
@@ -18,8 +18,8 @@ const products = [
     category: "Daily hydration",
     description:
       "A cooling aloe and niacinamide gel that feels fresh on the skin, wears well under SPF, and leaves a refined dewy finish.",
-    price: 1499,
-    compareAt: 1900,
+    price: 800,
+    compareAt: 1100,
     size: "50 ml",
     tags: ["Aloe vera", "Niacinamide", "Cooling glow"],
   },
@@ -29,8 +29,8 @@ const products = [
     category: "Best value",
     description:
       "The complete ritual pairing Hair Oil and Face Gel in one premium bundle for gifting, first orders, and full-routine shoppers.",
-    price: 2499,
-    compareAt: 3000,
+    price: 1200,
+    compareAt: 1600,
     size: "2-piece set",
     tags: ["Bundle save", "Gift ready", "Best seller"],
   }
